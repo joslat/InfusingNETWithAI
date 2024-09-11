@@ -36,6 +36,6 @@ If you like to know more on the topics presented, you can check my "at the momen
 - www.linkedin.com/learning/azure-ai-engineer-associate-ai-102-cert-prep-exam-tips/
 
 
-Have fun & keep coding,
+Have fun & keep coding,   
 José
 
